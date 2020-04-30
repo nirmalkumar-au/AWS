@@ -1,2 +1,2 @@
-# AWS
-AWS projects
+# AWS Projects
+AWS Projects
